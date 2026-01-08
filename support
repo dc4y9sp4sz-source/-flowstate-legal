@@ -2,10 +2,43 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Flowstate Support</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      padding: 50px;
+      background-color: #f8f9fa;
+      color: #333;
+    }
+    h1 {
+      color: #1f2937;
+    }
+    p {
+      font-size: 1.1em;
+    }
+    a {
+      color: #3b82f6;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    footer {
+      margin-top: 50px;
+      font-size: 0.9em;
+      color: #666;
+    }
+  </style>
 </head>
 <body>
   <h1>Flowstate Support</h1>
-  <p>If you have questions or need help, email us at <a href="mailto:support@flowstateapp.com">support@flowstateapp.com</a></p>
+  <p>If you need help with the Flowstate app, please contact us via email:</p>
+  <p><a href="mailto:jacknemdigital@gmail.com">jacknemdigital@gmail.com</a></p>
+
+  <footer>
+    <p>© 2026 Flowstate. All rights reserved.</p>
+  </footer>
 </body>
 </html>
